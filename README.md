@@ -1,2 +1,3 @@
 # quickrepo
-This is quick Git revision.
+This is Quick Git revision.
+Author - Altamash
